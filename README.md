@@ -25,6 +25,8 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+     <a style="padding-right:8px;" href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://miro.medium.com/max/629/1*_HoMKjrWahRiI-JmwYW6zg.png" width="48" height="48"/> </a>
+    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoe2W89Jj4sGcqkLMmbZtUrlP0YNLVK9snw&usqp=CAU" width="48" height="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 </a> 
     </a>   
