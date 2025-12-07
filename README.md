@@ -1,41 +1,64 @@
-<a href="#"><img width="100%" height="auto" src="https://img.freepik.com/premium-photo/future-artificial-intelligence-robot-cyborg_31965-6980.jpg?w=2000" height="175px"/></a>
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gulam Sarvar
+</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gulam Sarvar </h1>
-<h3 align="center">I'm a passionate Engineer from India.</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=500&lines=AI+Engineer+%7C+ML+%26+LLM+Enthusiast+%7C+Open+Source+Contributor" />
+</h3>
 
+---
 
 ## 🙋‍♂️ About Me
+- 🔭 Working in **AI/LLM Engineering & Automation**  
+- 🌱 Learning **Data Science, ML, LLMs & Vector DBs**  
+- 👯 Collaborating on **Open Source AI Projects**  
+- 👨‍💻 Portfolio: **[My Portfolio](https://github.com/SheikhSarvar/SheikhSarvar/)**  
+- 📫 Reach me: **sheikhgulamsarvar@gmail.com**  
+- ⚡ Fun fact: **Love reading books on Astrophysics 🌌**
 
-- 🔭 I’m currently working in ****
+---
 
-- 🌱 I’m currently learning **Data science,Machine Learning,Data Structures and Algorithms.**
+## 🚀 Skills & Tools
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+### 🧠 AI / LLM Engineering
+<p align="center">
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-4A4A55?style=for-the-badge&logo=chainlink&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LangGraph-000?style=for-the-badge&logo=dependabot&logoColor=white"/></a>
+  <a href="https://www.langflow.com/" target="_blank"><img src="https://img.shields.io/badge/LangFlow-0059ff?style=for-the-badge&logo=airflow&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LangFuse-5400ff?style=for-the-badge"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LangSmith-222?style=for-the-badge"/></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-A020F0?style=for-the-badge&logo=n8n&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/VectorDB-339933?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/></a>
+</p>
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/SheikhSarvar/SheikhSarvar/)**
+### 💻 Programming
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-- 📫 How to reach me **sheikhgulamsarvar@gmail.com**
+### 📦 Frameworks & Libraries
+<p align="center">
+  <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+  <img src="https://miro.medium.com/max/629/1*_HoMKjrWahRiI-JmwYW6zg.png" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/>
+  <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/452/numpy.png" width="48" height="48"/>
+</p>
 
-- ⚡ Fun fact **Ilike to read books on Astrophysics is a branch of space science**
+---
 
-## 🚀 Languages and Tools:
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/gulam-sarvar-409a1b1ba/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="mailto:sheikhgulamsarvar@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.icons8.com/color/48/twitter.png"/></a>
+</p>
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
- </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-     <a style="padding-right:8px;" href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://miro.medium.com/max/629/1*_HoMKjrWahRiI-JmwYW6zg.png" width="48" height="48"/> </a>
-    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtoe2W89Jj4sGcqkLMmbZtUrlP0YNLVK9snw&usqp=CAU" width="48" height="48"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-</a> 
-    </a>   
-     </a> 
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMweoRRhUX-HF1_rvM2rNefxSlcvmwzJzJeiF_Lt_CAztd9wxt7pGNRrvuG6uxvXf4Aw&usqp=CAU" alt="jenkins" width="100" height="48"/> </a> 
-<img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"alt="jenkins" width="48" height="48"/> </a>  
-    <img src="https://img.icons8.com/color/452/numpy.png" alt="express" width="40" height="40"/> </a>
-    
+---
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
+## 💡 Fun Facts (AI / Space / ML)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FFFF&width=500&lines=Did+you+know+AI+can+generate+art+from+text?;Black+holes+aren't+holes+but+dense+stars;Vector+databases+are+key+for+LLMs" />
+</p>
