@@ -12,7 +12,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 - 🔭 Working in **AI/LLM Engineering & Automation**  
 - 🌱 Learning **Data Science, ML, LLMs & Vector DBs**  
 - 👯 Collaborating on **Open Source AI Projects**  
-- 👨‍💻 Portfolio: **[My Portfolio](https://github.com/SheikhSarvar/SheikhSarvar/)**  
+- 👨‍💻 Portfolio: **[My Portfolio](https://sheikhsarvar.github.io/portfolio/)**  
 - 📫 Reach me: **sheikhgulamsarvar@gmail.com**  
 - ⚡ Fun fact: **Love reading books on Astrophysics 🌌**
 
