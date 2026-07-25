@@ -1,141 +1,102 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0f172a&height=150&section=header&text=Gulam%20Sarvar&fontSize=42&fontColor=00E5B4&animation=fadeIn&fontAlignY=40" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,50:3a1a6e,100:0a0010&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=00E5B4&center=true&vCenter=true&width=560&lines=Agentic+AI+%26+LLM+Systems+Engineer;Voice+AI+%7C+STT+%E2%86%92+LLM+%E2%86%92+TTS+pipelines;RAG+systems+for+legal+%26+healthcare;Open-source+%40+PyRAG+Core" />
 
-```
-  ╔══════════════════════════════════════════╗
-  ║              Gulam Sarvar                ║
-  ║   Designing intelligence at scale        ║
-  ╚══════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=520&lines=Agentic+AI+Architect;Production-First+Engineer;Voice+AI+Systems+Builder;Scaling+LLMs+Beyond+Demos;From+Idea+→+Architecture+→+Production" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0010?style=for-the-badge&logo=safari&logoColor=9B7FD4)](https://sheikhsarvar.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0010?style=for-the-badge&logo=linkedin&logoColor=9B7FD4)](https://in.linkedin.com/in/sheikh-gulam-sarvar-ab3343219)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0010?style=for-the-badge&logo=github&logoColor=9B7FD4)](https://github.com/SheikhSarvar)
-[![Email](https://img.shields.io/badge/Email-0a0010?style=for-the-badge&logo=gmail&logoColor=9B7FD4)](mailto:sheikhgulamsarvar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=00E5B4)](https://sheikhsarvar.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5B4)](https://in.linkedin.com/in/sheikh-gulam-sarvar-ab3343219)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00E5B4)](https://github.com/SheikhSarvar)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5B4)](mailto:sheikhgulamsarvar@gmail.com)
 
 </div>
 
----
-
-## 🧠 Philosophy
-
-> *AI is not about generating responses.*
-> *It's about designing systems that **reason, decide, and operate** in the real world.*
-
-I work at the intersection of:
-
-| Domain | Focus |
-|--------|-------|
-| 🏛️ System Design | Architecture that survives the real world |
-| 🤖 Agentic Systems | Agents that act, not just respond |
-| ⚡ Real-Time Execution | Low-latency AI pipelines |
-| 🔧 Backend Engineering | Scalable, modular AI infrastructure |
-
-**From idea → architecture → production → scale.**
-
----
-
-## ⚙️ Current Focus
-
-```python
-focus_areas = [
-    "🤖  Multi-Agent LLM Systems",
-    "🔍  Retrieval-Augmented Architectures",
-    "🎙️  Real-Time Voice AI Infrastructure",
-    "📡  Observability & Reliability in AI Systems",
-    "⚙️  Business-Integrated AI Automation",
-]
-```
-
----
-
-## 🏗️ How I Build
-
-I don't build prompts. I engineer **systems**.
-
-```
-┌─────────────────────────────────────────────────┐
-│  01  Decision Layers     →  logic beyond tokens  │
-│  02  Tool-Using Agents   →  act, not just respond│
-│  03  Memory-Aware Systems→  context that persists│
-│  04  Event-Driven Flows  →  reacts to real world │
-│  05  Microservice Backend→  modular & scalable   │
-└─────────────────────────────────────────────────┘
-```
-
-> **AI that survives traffic. AI that integrates. AI that evolves.**
-
----
-
-## 🧩 Core Stack
+Building production AI systems — voice pipelines, multi-agent RAG, and LLM infrastructure — at **[Bluebash](https://bluebash.co)**. Open-source author of **[PyRAG Core](https://github.com/SheikhSarvar/pyrag-core)**.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,docker&theme=dark" />
+<img src="https://img.shields.io/badge/2%2B-Years%20prod%20AI-0F172A?style=flat-square&labelColor=0F172A&color=00E5B4"/>
+<img src="https://img.shields.io/badge/150%2B-Calls%2Fday%20(live)-0F172A?style=flat-square&labelColor=0F172A&color=00E5B4"/>
+<img src="https://img.shields.io/badge/143-Unit%20tests%20(PyRAG)-0F172A?style=flat-square&labelColor=0F172A&color=00E5B4"/>
+<img src="https://img.shields.io/badge/%3C2s-E2E%20voice%20latency-0F172A?style=flat-square&labelColor=0F172A&color=00E5B4"/>
+
+</div>
+
+<br/>
+
+## ⚡ Shipping
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ Kickcall
+Bluebash's voice AI product. Built the **STT→LLM→TTS** pipeline from scratch — WebRTC/LiveKit, Redis session state, SIP telephony via Jambonz.
+
+**150–200 calls/day · <2s latency**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 RAG @ Bluebash
+Lead a 5-person cross-functional team building RAG systems for **legal & healthcare** clients. Hybrid dense+sparse retrieval + cross-encoder reranking on Qdrant/Pinecone.
+
+**Frontend · cloud · backend**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [PyRAG Core](https://github.com/SheikhSarvar/pyrag-core)
+Open-source RAG platform — Python, FastAPI, LangGraph. MIT licensed.
+
+**143 unit tests · Qdrant production-hardened**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ MCP Integration Gateway
+Full-stack SaaS — FastAPI (asyncpg, SQLModel, Alembic), deployed on Render with Supabase PostgreSQL.
+
+**Backend · deployment · infra debugging**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> *"Ship simple, measure everything, improve with evidence. Production beats benchmarks every time."*
+
+<br/>
+
+## 🧩 Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,docker&theme=dark" height="45"/>
 
 <br/><br/>
 
-![LLM Systems](https://img.shields.io/badge/LLM_Systems-Agentic_Architectures-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Production_Grade-5F9EA0?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Voice AI](https://img.shields.io/badge/Voice_AI-Real_Time-2E8B57?style=for-the-badge&logo=webrtc&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-00E5B4?style=flat-square&labelColor=0F172A)
+![Qdrant](https://img.shields.io/badge/Qdrant-00E5B4?style=flat-square&labelColor=0F172A)
+![Pinecone](https://img.shields.io/badge/Pinecone-00E5B4?style=flat-square&labelColor=0F172A)
+![LiveKit](https://img.shields.io/badge/WebRTC%2FLiveKit-00E5B4?style=flat-square&labelColor=0F172A)
+![Redis](https://img.shields.io/badge/Redis-00E5B4?style=flat-square&labelColor=0F172A)
+![Jambonz](https://img.shields.io/badge/Jambonz-00E5B4?style=flat-square&labelColor=0F172A)
 
 </div>
-
----
-
-## 📈 Engineering Mindset
-
-```
-  Production   ›  Prototype
-  Architecture ›  Hacks
-  Systems      ›  Scripts
-  Clarity      ›  Complexity
-```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SheikhSarvar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhSarvar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" height="160"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhSarvar&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
-
-</div>
-
----
-
-## 🌌 Outside Code
-
-```
-  🌌  Astrophysics       — the physics of the cosmos
-  🧬  Cognitive Systems  — how minds process reality
-  🔭  Philosophy of AI   — intelligence as a systems problem
-```
-
-*Because intelligence — artificial or human — is a systems problem.*
-
----
+## 📊 Activity
 
 <div align="center">
 
-```
-  ╔════════════════════════════════════╗
-  ║  Intelligence is engineered.       ║
-  ║  And engineering is philosophical. ║
-  ╚════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0010,50:3a1a6e,100:0a0010&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SheikhSarvar&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0F172A&icon_color=00E5B4&text_color=333333" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhSarvar&theme=default&hide_border=true&background=ffffff&ring=00E5B4&fire=00E5B4&currStreakLabel=0F172A" height="160"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0f172a&height=90&section=footer" width="100%"/>
