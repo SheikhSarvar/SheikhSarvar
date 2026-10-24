@@ -11,7 +11,7 @@
 
 </div>
 
-Building production AI systems — voice pipelines, multi-agent RAG, and LLM infrastructure — at **[Bluebash](https://bluebash.co)**. Open-source author of **[PyRAG Core](https://github.com/SheikhSarvar/pyrag-core)**.
+Building production AI systems — voice pipelines, multi-agent RAG, and LLM infrastructure. Open-source author of **[PyRAG Core](https://github.com/SheikhSarvar/pyrag-core)**.
 
 <div align="center">
 
