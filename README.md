@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=00E5B4)](https://sheikhsarvar.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5B4)](https://in.linkedin.com/in/sheikh-gulam-sarvar-ab3343219)
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00E5B4)](https://github.com/SheikhSarvar)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/SheikhSarvar/badge.svg)](https://hub.xerj.org/contributors/SheikhSarvar)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5B4)](mailto:sheikhgulamsarvar@gmail.com)
 
 </div>
